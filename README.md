@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, pessoal! Sou o Luiz Fernando, mas pode me chamar somente de "Luiz" mesmo heheh👋
 
 <!--
 **Luiz-Fernando-sys/Luiz-Fernando-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/Luiz-Fernando-sys">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Fernando-sys&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Fernando-sys&layout=compact&langs_count=7&theme=dark"/>
+</div>
