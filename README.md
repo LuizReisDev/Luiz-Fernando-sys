@@ -57,4 +57,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Dart-Luiz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Docker-Luiz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" alt="Java-Luiz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
+  ![Snake animation](https://github.com/Luiz-Fernando-sys/Luiz-Fernando-sys/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
